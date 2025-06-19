@@ -2,6 +2,10 @@
 ### POC - RAG
 ---
 
+### Using Homebrew
+
+brew install ollama
+
 ### 5. Run the backend
 
 From the root directory, start the backend:
